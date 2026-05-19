@@ -1,4 +1,4 @@
-Income & Expense Tracker Dashboard (Excel)
+https://www.linkedin.com/posts/chunchun-kumar-9a0045260_proud-to-share-my-latest-project-income-share-7462343146874785792-RkYw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAT60gBibatASP820C_J5NHv2DO_EigfaoIncome & Expense Tracker Dashboard (Excel)
 An interactive, dynamic, and visually striking Financial Analytics Dashboard built entirely in Microsoft Excel. This project transforms raw financial data into an executive-ready visual report to track multiple income streams, monthly expenses, and net profit margins.
 
 📊 Dashboard Preview
