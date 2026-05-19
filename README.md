@@ -1,4 +1,5 @@
-# n interactive, dynamic, and visually striking Financial Analytics Dashboard built entirely in Microsoft Excel. This project transforms raw financial data into an executive-ready visual report to track multiple income streams, monthly expenses, and net profit margins.
+Income & Expense Tracker Dashboard (Excel)
+An interactive, dynamic, and visually striking Financial Analytics Dashboard built entirely in Microsoft Excel. This project transforms raw financial data into an executive-ready visual report to track multiple income streams, monthly expenses, and net profit margins.
 
 📊 Dashboard Preview
 🔍 Project Overview & Features
@@ -21,6 +22,11 @@ Net Profit Calculation: A dedicated KPI block tracking overall net profitability
 🛠️ Technical Skills & Tools Showcased
 Advanced Data Modeling: Structuring fact data for clean aggregation.
 
+Pivot Tables & Pivot Charts: Powering the dynamic visual elements.
+
+Interactive Slicers: Implementing user-friendly dashboard navigation.
+
+Dashboard UI/UX & Color Theory: Designing with cohesive, soft color blocks to separate income and expenses while maintaining readability.
 Pivot Tables & Pivot Charts: Powering the dynamic visual elements.
 
 Interactive Slicers: Implementing user-friendly dashboard navigation.
